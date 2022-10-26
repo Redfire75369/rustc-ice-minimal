@@ -1,0 +1,5 @@
+[workspace]
+members = [
+	"ion-proc",
+	"rustc-ice",
+]
